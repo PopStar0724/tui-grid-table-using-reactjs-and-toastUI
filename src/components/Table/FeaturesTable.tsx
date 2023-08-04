@@ -156,7 +156,7 @@ const FeatureTable = () => {
             scrollY = {true}
             rowHeaders={['rowNum', 'checkbox']}
             summary={summary}
-            header={header}
+            // header={header}
             columnOptions={columnOptions}
         />
     )
